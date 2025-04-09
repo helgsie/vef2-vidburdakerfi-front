@@ -3,6 +3,6 @@ import React from "react";
 
 export default function LoadingSkeleton() {
     return (
-        <p>Hleður gögn...</p>
+        <p className="mx-auto">Hleður gögn...</p>
     );
 }

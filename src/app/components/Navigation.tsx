@@ -37,7 +37,7 @@ export default function Navigation() {
                         className="flex items-center gap-2 hover:cursor-pointer rounded-full"
                     >
                         <Image 
-                            src={profilePic || "/user.png"}
+                            src={profilePic || "/placeholder-user.png"}
                             alt="Prófíl mynd"
                             width={40}
                             height={40}
